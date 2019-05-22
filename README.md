@@ -5,8 +5,11 @@ In this study, 250 mice were treated through a variety of drug regimes over the 
 To do this:
 
 
-Create a scatter plot that shows how the tumor volume changes over time for each treatment.
-Create a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
-Create a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-Create a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+- Create a scatter plot that shows how the tumor volume changes over time for each treatment.
+
+- Create a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+
+- Create a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate).
+
+- Create a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
